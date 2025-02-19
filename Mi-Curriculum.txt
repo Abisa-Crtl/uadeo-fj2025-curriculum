@@ -5,3 +5,6 @@ Primaria: Genaro Estrada
 Secundaria: Escuela Secundaria Técnica No.28
 Bachillerato: CETIS 108
 Universidad: UAdeO
+Aprendiendo a Deshacer Cosas En Git 
+Tambien se puede registrar cambios en los archivos
+y quedaran guardados
