@@ -1,9 +1,9 @@
 Mi Historia Academica
 
-Preescolar: Kinder Lomas Del Mar
+Preescolar: Alvaro Obregon
 Primaria: Genaro Estrada
-Secundaria: Escuela Secundaria Técnica No.28
-Bachillerato: CETIS 108
+Secundaria: Escuela Secundaria Técnica No.99
+Bachillerato: Preparatoria Guasave Diurna UAS
 Universidad: UAdeO
 Aprendiendo a Deshacer Cosas En Git 
 Tambien se puede registrar cambios en los archivos
